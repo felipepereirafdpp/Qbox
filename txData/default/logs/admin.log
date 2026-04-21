@@ -1,0 +1,18 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 28518 Starting - 21/04/2026, 12:58:02
+================================================================
+[13:07:48][pfio11] created admins file
+[13:11:44][pfio11] Config changes: general.serverName
+[13:11:44][pfio11] Changing global settings via setup stepper and started Deployer.
+[13:11:56][pfio11] Setting recipe.
+[13:17:16][pfio11] Config changes: 
+[13:17:16][pfio11] Changing global settings via setup stepper and started Deployer.
+[13:17:17][pfio11] Setting recipe.
+[13:17:49][pfio11] Running recipe.
+[13:26:08][pfio11] Config changes: server.dataPath
+[13:26:08][pfio11] Completed and committed server deploy.
+[13:32:06][pfio11] [pfio11] executed "RESTART SERVER"
+================================================================
+======== txAdmin v8.0.1 atop fxserver 28518 Starting - 21/04/2026, 14:15:42
+================================================================
+[14:31:42][pfio11] logged in from 127.0.0.1 via cfxre

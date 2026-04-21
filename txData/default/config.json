@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "Base Testes"
+  },
+  "server": {
+    "dataPath": "C:/Users/paulinho/OneDrive/Desktop/Qbox/txData/Triset.base/"
+  }
+}
