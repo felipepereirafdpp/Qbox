@@ -292,3 +292,14 @@ altitude {
   font-weight: 600;
   text-shadow: 0 0 1px rgba(0, 0, 0, 0.6), 0 0 1px rgba(0, 0, 0, 0.6), 0 0 1px rgba(0, 0, 0, 0.6), 0 0 1px rgba(0, 0, 0, 0.6);
 }
+.server-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.server-logo img {
+    width:125px;
+    opacity: 0.9;
+}

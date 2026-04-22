@@ -6,7 +6,8 @@ return {
 		}, inventory = {
 			{ name = 'burger', price = 10 },
 			{ name = 'water', price = 10 },
-			{ name = 'cola', price = 10 },
+			{ name = 'cola', price = 15 },
+			
 		}, locations = {
 			vec3(25.7, -1347.3, 29.49),
 			vec3(-3038.71, 585.9, 7.9),
@@ -19,7 +20,7 @@ return {
 			vec3(2557.94, 382.05, 108.62),
 			vec3(373.55, 325.56, 103.56),
 		}, targets = {
-			{ loc = vec3(25.06, -1347.32, 29.5), length = 0.7, width = 0.5, heading = 0.0, minZ = 29.5, maxZ = 29.9, distance = 1.5 },
+			{ loc = vec3(25.06, -1347.32, 29.5), length = 0.7, width = 0.5, heading = 0.0, minZ = 29.5, maxZ = 29.9, distance = 10 },
 			{ loc = vec3(-3039.18, 585.13, 7.91), length = 0.6, width = 0.5, heading = 15.0, minZ = 7.91, maxZ = 8.31, distance = 1.5 },
 			{ loc = vec3(-3242.2, 1000.58, 12.83), length = 0.6, width = 0.6, heading = 175.0, minZ = 12.83, maxZ = 13.23, distance = 1.5 },
 			{ loc = vec3(1728.39, 6414.95, 35.04), length = 0.6, width = 0.6, heading = 65.0, minZ = 35.04, maxZ = 35.44, distance = 1.5 },
@@ -77,7 +78,7 @@ return {
 		blip = {
 			id = 110, colour = 69, scale = 0.8
 		}, inventory = {
-			{ name = 'ammo-9', price = 5, },
+			{ name = 'ammo-9', price = 50, },
 			{ name = 'WEAPON_KNIFE', price = 200 },
 			{ name = 'WEAPON_BAT', price = 100 },
 			{ name = 'WEAPON_PISTOL', price = 1000, metadata = { registered = true }, license = 'weapon' }

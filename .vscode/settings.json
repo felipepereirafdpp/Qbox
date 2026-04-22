@@ -1,0 +1,15 @@
+{
+  "Lua.diagnostics.globals": [
+    "vehicle_generator",
+    "spawnpoint",
+    "CreateThread",
+    "GetResourceMetadata",
+    "GetNumResources",
+    "GetResourceByFindIndex",
+    "GetResourceState",
+    "GetConvar"
+  ],
+  "Lua.diagnostics.disable": [
+    "undefined-global"
+  ]
+}
